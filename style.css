@@ -1,0 +1,52 @@
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.quadratonero{
+  text-align: center;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+  width:900px;height:600px; padding:80px; border-radius: 20px;
+}
+
+#sottotitolo {
+  color: rgb(0,255,0);
+}
+
+ .barra-verde {
+   background-color: rgb(0,255,0);
+   padding: 10px;
+   border-radius: 10px;
+ }
+.barra1{
+  width: 300px; border: 10px solid #0000; border-radius: 20px;
+  background-color: orange;
+}
+
+.barra2{
+ width: 500px; border: 10px solid #0000; border-radius: 20px;
+ background-color: green;
+}
+
+.barra3{
+ width: 110px; border: 10px solid #0000; border-radius: 20px;
+ background-color: red;
+}
+
+.dispositivi{
+  text-align: left;
+  color: white;
+    line-height: 1.5;
+}
+#nomem {
+  font-size: 20px
+
+}
+
+.ridimensiona {
+  width: 300px;
+  height: auto;
+}
